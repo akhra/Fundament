@@ -11,4 +11,6 @@ Fundament's goals are roughly the same as those of [Helm](http://helm-engine.org
 
 ## Status
 
+Step one is gluing SDL2 and Reflex together. Step two is figuring out step three.
+
 <img src="http://i48.tinypic.com/2chatfa.jpg">
